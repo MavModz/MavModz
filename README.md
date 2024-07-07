@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mavmodz" alt="mavmodz" /></a> </p>
 
-- 🔭 I’m currently working on [E-Tutor](https://e-tutor-zeta.vercel.app/)
+- 🔭 I’m currently working on [E-Tutor](https://e-tutor-gules.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS, ReactJS, Automation Testing**
 
